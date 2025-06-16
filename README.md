@@ -1,2 +1,7 @@
 # exerciciosjava
-Este repositório contém meus primeiros códigos desenvolvidos em Java, como parte dos meus estudos em programação.
+
+Você pode compilar e rodar este código usando o terminal com os seguintes comandos:
+
+bash(= Terminal de Comandos -linha de comando)
+javac MeuPrimeiroProgramaJava.java
+java MeuPrimeiroProgramaJava
