@@ -1,4 +1,4 @@
-# exerciciosjava
+# exerciciosdejava
 
 Você pode compilar e rodar este código usando o terminal com os seguintes comandos:
 
